@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.fw-5{font-weight: 600;}
+.enq:hover{
+    background-color: #ed1651 !important;
+    transition: all 0.3s ease-in;
+}
+.trusted{
+    background: linear-gradient(0deg, rgba(164, 26, 26, 0.7),rgba(186, 18, 18, 0.7)), url(../Img/parallax_bg1.jpg);
+}
+.playButton{
+    border-radius: 50%;
+    background: #ed1651;
+    animation: 2s;
+}
+.anchorPlay{
+    left: 44% !important;
+    top: 40% !important;
+}
+ @keyframes myAnimation{
+
+ }
+
+
+
